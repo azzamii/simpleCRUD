@@ -87,7 +87,7 @@ while($user_data = mysqli_fetch_array($result))
 				            
 						  <li class="menu-has-children"><a href="pengembalian.php">Pengembalian</a></li>
 				            
-				          <li class="menu-has-children"><a href="komplain.php">komplain</a></li>
+				          <li class="menu-has-children"><a href="komplain.php">Komplain</a></li>
 				            		          
 				        </ul>
 				      </nav><!-- #nav-menu-container -->		    		
